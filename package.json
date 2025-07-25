@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "all4you-backend",
   "version": "1.0.0",
   "description": "Backend for All4You Auctioneers - includes admin panel, API routes, file uploads, and data logic.",
@@ -22,4 +23,9 @@
   "keywords": [],
   "author": "All4You Auctions",
   "license": "ISC"
+=======
+  "dependencies": {
+    "pdfkit": "^0.17.1"
+  }
+>>>>>>> 169b16f074ad8b7fe842f0a5f18f95b936e98537
 }
